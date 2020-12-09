@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="principal">iconfinder_Pacman_Ghost_381615.png</file>
+        <file alias="vidaimag">iconfinder_Love__heart_like_4096575.png</file>
+    </qresource>
+</RCC>
